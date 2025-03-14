@@ -2,6 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/recommen/vpn_and_proxies_recommendations.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/proxy-recommendations.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/v2ray_node_recommendations.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/hysteria2_node_providers.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/windows.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/redhat.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/podman.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/openwrt.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/macos.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/linux.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/alpine.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/archlinux.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/debian.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/docker.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
+    
+    <lastmod>2025-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-03-14</lastmod>
@@ -47,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2025-01-10-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://v2raya.net/free-nodes/2025-01-11-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-03-14</lastmod>
     
@@ -56,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2025-01-11-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://v2raya.net/free-nodes/2025-01-10-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-03-14</lastmod>
     
@@ -173,96 +308,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/install/windows.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/redhat.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/podman.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/docker.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/debian.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/archlinux.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/alpine.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/macos.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/openwrt.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/linux.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/free-nodes/2024-11-05-free-node-subscribe.html</loc>
     
     <lastmod>2025-03-02</lastmod>
@@ -308,54 +353,9 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
-    
-    <lastmod>2025-03-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/prologue/quick-start.html</loc>
     
     <lastmod>2025-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/proxy-recommendations.html</loc>
-    
-    <lastmod>2025-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/v2ray_node_recommendations.html</loc>
-    
-    <lastmod>2025-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/hysteria2_node_providers.html</loc>
-    
-    <lastmod>2025-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/vpn_and_proxies_recommendations.html</loc>
-    
-    <lastmod>2025-02-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
