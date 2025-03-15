@@ -1,10 +1,10 @@
 https://v2raya.net/recommen/vpn_and_proxies_recommendations.html
-https://v2raya.net/recommen/proxy-recommendations.html
 https://v2raya.net/recommen/v2ray_node_recommendations.html
+https://v2raya.net/goto/ssrdog.html
+https://v2raya.net/recommen/proxy-recommendations.html
 https://v2raya.net/recommen/hysteria2_node_providers.html
 https://v2raya.net/install/windows.html
 https://v2raya.net/install/redhat.html
 https://v2raya.net/install/podman.html
 https://v2raya.net/install/openwrt.html
 https://v2raya.net/install/macos.html
-https://v2raya.net/install/linux.html
