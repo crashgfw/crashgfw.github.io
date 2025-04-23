@@ -7,8 +7,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /lib/
 Disallow: /goto/
-Disallow: /categories/
-Disallow: /tags/
-Disallow: /page/
 
 Sitemap: https://v2raya.net/sitemap.xml
