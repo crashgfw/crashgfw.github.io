@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-09-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.v2raya.net/gfw/anti-censorship-history.html</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.v2raya.net/recommen/proxy-recommendations.html</loc>
+    
+    <lastmod>2025-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.v2raya.net/recommendation/</loc>
     
     <lastmod>2025-08-30</lastmod>
@@ -221,24 +248,6 @@
     <loc>https://www.v2raya.net/free-nodes/2025-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.v2raya.net/recommen/proxy-recommendations.html</loc>
-    
-    <lastmod>2025-08-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -778,7 +787,7 @@
 
   <url>
     <loc>https://www.v2raya.net/</loc>
-    <lastmod>2025-08-30</lastmod>
+    <lastmod>2025-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
