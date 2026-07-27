@@ -1,4 +1,5 @@
 https://www.v2raya.net/install/windows.html
+https://www.v2raya.net/install/linux.html
 https://www.v2raya.net/free-nodes/2024-12-28-free-v2ray-node-subscriptions.html
 https://www.v2raya.net/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html
 https://www.v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html
@@ -7,4 +8,3 @@ https://www.v2raya.net/free-nodes/2024-11-04-free-node-subscribe.html
 https://www.v2raya.net/free-nodes/2024-11-03-free-node-subscribe.html
 https://www.v2raya.net/free-nodes/2024-11-02-free-node-subscribe.html
 https://www.v2raya.net/free-nodes/2024-10-31-free-node-subscribe.html
-https://www.v2raya.net/free-nodes/2024-11-01-free-node-subscribe.html

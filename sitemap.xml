@@ -4,7 +4,16 @@
   <url>
     <loc>https://www.v2raya.net/install/windows.html</loc>
     
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-07-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.v2raya.net/install/linux.html</loc>
+    
+    <lastmod>2026-07-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -155,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://www.v2raya.net/free-nodes/2025-02-11-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://www.v2raya.net/free-nodes/2025-02-02-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2026-07-12</lastmod>
     
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.v2raya.net/free-nodes/2025-02-02-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://www.v2raya.net/free-nodes/2025-02-11-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2026-07-12</lastmod>
     
@@ -318,15 +327,6 @@
   
   <url>
     <loc>https://www.v2raya.net/install/macos.html</loc>
-    
-    <lastmod>2025-04-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.v2raya.net/install/linux.html</loc>
     
     <lastmod>2025-04-29</lastmod>
     
@@ -796,7 +796,7 @@
 
   <url>
     <loc>https://www.v2raya.net/</loc>
-    <lastmod>2026-07-19</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
